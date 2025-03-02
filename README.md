@@ -14,7 +14,7 @@ Contraseña: JGJBXh:Q1
 Documentacion  
 https://docs.rapid7.com/metasploit/installing-metasploit-pro/  
 
-Pasos para actualizar metasploit pro offline 
+Pasos para actualizar metasploit pro offline  
 https://docs.rapid7.com/metasploit/updating-metasploit/  
 
 Descargar las actualizaciones offline  
