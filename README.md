@@ -11,6 +11,15 @@ URL: https://localhost:3790/
 Usuario: admin  
 Contraseña: JGJBXh:Q1
 
+Documentacion  
+https://docs.rapid7.com/metasploit/installing-metasploit-pro/  
+
+Pasos para actualizar metasploit pro offline 
+https://docs.rapid7.com/metasploit/updating-metasploit/  
+
+Descargar las actualizaciones offline  
+https://docs.rapid7.com/release-notes/metasploit/
+
 
 
 
